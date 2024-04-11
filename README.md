@@ -2,6 +2,8 @@
 
 ADLauncher is an open-source project created with the intention of providing players with a free alternative way to play Minecraft until they can purchase the game.
 
+[README ESPAÑOL](https://github.com/adlauncher-team/adlauncher-web/blob/main/README-ES.md)
+
 ## More
 
 The ADLauncher project consists of:
